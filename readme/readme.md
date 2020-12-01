@@ -1,7 +1,7 @@
 # Explaining the html/css code of the CV website
 
 First, I create the following on the website document root:
-![documentRoot](imagem1.jpg)
+![documentRoot](https://github.com/DarkMxl/Bruninho/blob/readme/readme/Imagem1.jpg?raw=true)
 
 The folder css will contain the css of our website, the folder img will contain the images of our website, the index.html is the main page and the portfolio.html is another page.
 So when I start xampp and go to trabalho1.dev:
