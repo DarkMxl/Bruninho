@@ -22,7 +22,7 @@ The title itself it what appears on the top of the browser:
 ![title](Imagem5.jpg)
  
 After the <head> comes the <body>, but i created a <header> and a <footer> to be able to custom them trough css:
-![headercode](imagem6.jpg)
+![headercode](Imagem6.jpg)
 ![header](Imagem7.jpg)
 
 So, according to the assignment the header had to contain a picture of me, my name and I added the Portfolio there so who visits the site can press on it and go to my portfolio.
