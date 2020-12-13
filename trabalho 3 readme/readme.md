@@ -16,17 +16,17 @@ Wordpress was installed, and to finish I just created an admin account.
 
 After login, I had access to the following panel(already with plugins installed by me)
 
-![adminpanel](imagem2.jpg)
+![adminpanel](imagem2.JPG)
 
 The wordpress is very easy to work with, I did some experiences with the pages, but to make it more easy and intuitive I installed some plugins:
 
-![plugins](imagem3.jpg)
+![plugins](imagem3.JPG)
 
 #### Plugins
 
 To build the website I added Starter Templates plugin:
 
-![starterTemplate](imagem4.jpg)
+![starterTemplate](imagem4.JPG)
 
 This plugin takes one of the sites already made, so I can change it the way i want, it can save a lot of time. So i choose one of the Elementor websites, so I had to install the Elementor plugin, which is very good for editing the page. It also installed wp-forms to make user forms.
 
@@ -40,7 +40,7 @@ I also installed a plugin for react js, in case i would use it, but i didn't.
 
 In Presentation I did a bit of changings to the original copied webpage, changed the logo and the header titles:
 
-![header](imagem5.jpg)
+![header](imagem5.JPG)
 
 There is much more i could do, but for now i only changed the basic. 
 
@@ -48,11 +48,11 @@ There is much more i could do, but for now i only changed the basic.
 
 In this section there are all the pages of the website:
 
-![pages](imagem6.jpg)
+![pages](imagem6.JPG)
 
 Here, they can be added, deleted or modified, for example:
 
-![pageedit](imagem7.jpg)
+![pageedit](imagem7.JPG)
 
 With Elementor I have all those options available, I just select them and add widget to add anything I want.
 
@@ -60,17 +60,17 @@ With Elementor I have all those options available, I just select them and add wi
 
 In the section we can change the header and footer, but for this website i manage to change the header on the general settings, so here is only the footer:
 
-![footer](imagem8.jpg)
+![footer](imagem8.JPG)
 
 Again the footer is changed with Elementor, for this footer i added a logo with the icons of each social media bellow, and a contact form that allows visitors to contact the webmaster:
 
-![footerSite](imagem9.jpg)
+![footerSite](imagem9.JPG)
 
 #### Social media feed
 
 With the plugins for each social feed, all i had to do was connect them to my accounts and past the code on the page were i want the social feed: 
 
-![socialfeed](imagem10.jpg)
+![socialfeed](imagem10.JPG)
 
 Facebook had a problem, because it only works if I have a page or group to connect to, doesn't allow to show my feed, but for twitter and instagram worked perfectly.
 
@@ -78,43 +78,43 @@ Facebook had a problem, because it only works if I have a page or group to conne
 
 So this is the homepage:
 
-![homepage](imagem11.jpg)
+![homepage](imagem11.JPG)
 
 The about page with the social feed:
 
-![about](imagem12.jpg)
+![about](imagem12.JPG)
 
 The education:
 
-![education](imagem13.jpg)
+![education](imagem13.JPG)
 
 The experience:
 
-![experience](imagem14.jpg)
+![experience](imagem14.JPG)
 
 The user page:(Not finished)
 
-![userpage](imagem15.jpg)
+![userpage](imagem15.JPG)
 
 #### User register and login:
 
 So I had some problems here, I used the plugin to create user registration and login:
 
-![userplugin](imagem16.jpg)
+![userplugin](imagem16.JPG)
 
 This is the plugin page, it is the user overview. Firstly, i did one normal register to see how it was but i couldnt send the user to his page after the login. Secondly, i created another account with mail verification, but it didin't send any email to me, so it isn't working. I might need some help regarding this issue.
 
 I also confirmed that the users are indeed in the databse and their password is protected:
 
-![mydb](imagem17.jpg)
+![mydb](imagem17.JPG)
 
 The plugin give us several options and forms for the register and login:
 
-![forms](imagem18.jpg)
+![forms](imagem18.JPG)
 
 I created a page for the login as showned before and the register it is on the home page:
 
-![registerforms](imagem19.jpg)
+![registerforms](imagem19.JPG)
 
 It shows error in case of weak password and etc.
 
