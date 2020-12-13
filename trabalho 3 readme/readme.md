@@ -8,7 +8,7 @@ Open wp-admin/install.php on the browser. It will help me config wp-config.php w
 
 Since it didint start , i had to change the wp-config.php file manualy, by adding a myphp database that i created:
 
-[firstconfig](imagem1.jpg)
+[firstconfig](imagem1.JPG)
 
 Wordpress was installed, and to finish I just created an admin account.
 
